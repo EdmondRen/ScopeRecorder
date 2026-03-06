@@ -61,3 +61,4 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
+.ipynb_checkpoints
